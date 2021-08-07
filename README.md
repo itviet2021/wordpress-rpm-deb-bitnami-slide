@@ -1,0 +1,1 @@
+# wordpress-rpm-deb-bitnami-slide
